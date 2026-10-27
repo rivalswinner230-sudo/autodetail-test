@@ -1,2 +1,0 @@
-# autodetail-test
-testwebsite
